@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Learn. Build. Automate. Repeat.">
+<defs><linearGradient id="g"><stop stop-color="#ff7b32" stop-opacity="0"/><stop offset=".5" stop-color="#ffb27f"/><stop offset="1" stop-color="#ff7b32" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="130" rx="18" fill="#0b0e14"/>
+<g fill="none" stroke="url(#g)" stroke-width="1.5">
+<path d="M-300 95 Q-150 45 0 95T300 95T600 95T900 95T1200 95T1500 95"><animateTransform attributeName="transform" type="translate" from="0 0" to="600 0" dur="12s" repeatCount="indefinite"/></path>
+<path d="M-300 105 Q-150 65 0 105T300 105T600 105T900 105T1200 105T1500 105" opacity=".3"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="16s" repeatCount="indefinite"/></path>
+</g>
+<text x="600" y="49" text-anchor="middle" fill="#e2d8d0" font-family="monospace" font-size="17" letter-spacing="4">LEARN. BUILD. AUTOMATE. REPEAT.</text>
+<text x="600" y="78" text-anchor="middle" fill="#7e8290" font-family="monospace" font-size="12">One commit closer.</text></svg>
