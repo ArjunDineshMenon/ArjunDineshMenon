@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Learn. Build. Automate. Repeat.">
-<defs><linearGradient id="g"><stop stop-color="#ff7b32" stop-opacity="0"/><stop offset=".5" stop-color="#ffb27f"/><stop offset="1" stop-color="#ff7b32" stop-opacity="0"/></linearGradient></defs>
-<rect width="1200" height="130" rx="18" fill="#0b0e14"/>
-<g fill="none" stroke="url(#g)" stroke-width="1.5">
-<path d="M-300 95 Q-150 45 0 95T300 95T600 95T900 95T1200 95T1500 95"><animateTransform attributeName="transform" type="translate" from="0 0" to="600 0" dur="12s" repeatCount="indefinite"/></path>
-<path d="M-300 105 Q-150 65 0 105T300 105T600 105T900 105T1200 105T1500 105" opacity=".3"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="16s" repeatCount="indefinite"/></path>
-</g>
-<text x="600" y="49" text-anchor="middle" fill="#e2d8d0" font-family="monospace" font-size="17" letter-spacing="4">LEARN. BUILD. AUTOMATE. REPEAT.</text>
-<text x="600" y="78" text-anchor="middle" fill="#7e8290" font-family="monospace" font-size="12">One commit closer.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="A black moon drifting through a purple void. Learn, build, automate, repeat.">
+<defs><radialGradient id="a"><stop stop-color="#6f3ba3" stop-opacity=".3"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient><linearGradient id="wave"><stop stop-color="#4b256e" stop-opacity="0"/><stop offset=".5" stop-color="#b98beb"/><stop offset="1" stop-color="#4b256e" stop-opacity="0"/></linearGradient><clipPath id="c"><rect width="1200" height="180" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="1200" height="180" fill="#030105"/><ellipse cx="1040" cy="90" rx="200" ry="160" fill="url(#a)"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="8s" repeatCount="indefinite"/><circle cx="1040" cy="90" r="54" fill="#b49acb"/><circle cx="1048" cy="86" r="53" fill="#040107"/><circle cx="1040" cy="90" r="58" fill="none" stroke="#8e56bd" opacity=".3"/></g>
+<g fill="none" stroke="url(#wave)"><path d="M-300 153Q-150 103 0 153T300 153T600 153T900 153T1200 153T1500 153"><animateTransform attributeName="transform" type="translate" from="0 0" to="600 0" dur="18s" repeatCount="indefinite"/></path><path d="M-300 165Q-150 125 0 165T300 165T600 165T900 165T1200 165T1500 165" opacity=".3"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="22s" repeatCount="indefinite"/></path></g>
+<text x="52" y="72" fill="#f0e9f8" font-family="monospace" font-size="22" letter-spacing="4">LEARN. BUILD. AUTOMATE. REPEAT.</text>
+<text x="52" y="108" fill="#9e83b5" font-family="monospace" font-size="14" letter-spacing="2">Quiet focus. Infinite possibilities.</text>
+</g></svg>
